@@ -1,4 +1,5 @@
-# Proyecto-opengl-inmobiliaria
+# Proyecto-opengl-inmobiliaria:
+TITULO : Desarrollo de un software para visualizar en 3D los Departamentos en venta de una inmobiliaria
 visualización de modelo de 3D en Opengl
 ## La motivacion del proyecto :
 "Elegimos este proyecto porque anticipamos una experiencia emocionante y gratificante en el ámbito de la programación y la computación gráfica. Nos brindará la oportunidad de diseñar varios modelos, explorar la manipulación de objetos en 3D, la gestión de texturas y más. A través de este desafío, mejoraremos nuestras habilidades de programación y crearemos modelos tridimensionales para una inmobiliaria. Este proceso también nos permitirá desatar nuestra creatividad en el diseño y, en última instancia, experimentar la satisfacción de haber llevado a cabo con éxito este proyecto."
