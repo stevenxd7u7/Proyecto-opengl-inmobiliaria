@@ -1,0 +1,127 @@
+# depslib dependency file v1.0
+1354375056 source:c:\users\paul\documents\upn\ciclo 6\computacion grafica y visual\proyectos\t3\glm.cpp
+	"stdafx.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1206984662 c:\users\paul\documents\upn\ciclo 6\computacion grafica y visual\proyectos\t3\stdafx.h
+	<stdio.h>
+	<tchar.h>
+
+1354375116 c:\users\paul\documents\upn\ciclo 6\computacion grafica y visual\proyectos\t3\glm.h
+	<GL/glut.h>
+
+1206984662 source:c:\users\paul\documents\upn\ciclo 6\computacion grafica y visual\proyectos\t3\stdafx.cpp
+	"stdafx.h"
+
+1208830204 source:c:\users\paul\documents\upn\ciclo 6\computacion grafica y visual\proyectos\t3\texture.cpp
+	"stdafx.h"
+	"Texture.h"
+
+1353151932 c:\users\paul\documents\upn\ciclo 6\computacion grafica y visual\proyectos\t3\texture.h
+	<windows.h>
+	<windowsx.h>
+	<stdlib.h>
+	<stdio.h>
+	"GL/glut.h"
+	<math.h>
+
+1698370290 source:c:\users\paul\documents\upn\ciclo 6\computacion grafica y visual\proyectos\t3\main.cpp
+	<stdlib.h>
+	<windows.h>
+	<GL/glut.h>
+	"stdafx.h"
+	"glm.h"
+	"Texture.h"
+	<iostream>
+	<math.h>
+	<fstream>
+
+1206984662 source:c:\users\paul\documents\upn\ciclo 6\computacion grafica y visual\proyectos\opengl\t3\stdafx.cpp
+	"stdafx.h"
+
+1206984662 c:\users\paul\documents\upn\ciclo 6\computacion grafica y visual\proyectos\opengl\t3\stdafx.h
+	<stdio.h>
+	<tchar.h>
+
+1208830204 source:c:\users\paul\documents\upn\ciclo 6\computacion grafica y visual\proyectos\opengl\t3\texture.cpp
+	"stdafx.h"
+	"Texture.h"
+
+1353151932 c:\users\paul\documents\upn\ciclo 6\computacion grafica y visual\proyectos\opengl\t3\texture.h
+	<windows.h>
+	<windowsx.h>
+	<stdlib.h>
+	<stdio.h>
+	"GL/glut.h"
+	<math.h>
+
+1698373981 source:c:\users\paul\documents\upn\ciclo 6\computacion grafica y visual\proyectos\opengl\t3\glm.cpp
+	"stdafx.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1354375116 c:\users\paul\documents\upn\ciclo 6\computacion grafica y visual\proyectos\opengl\t3\glm.h
+	<GL/glut.h>
+
+1700116975 source:c:\users\paul\documents\upn\ciclo 6\computacion grafica y visual\proyectos\opengl\t3\main.cpp
+	<stdlib.h>
+	<windows.h>
+	<GL/glut.h>
+	"stdafx.h"
+	"glm.h"
+	"Texture.h"
+	<iostream>
+	<math.h>
+	<fstream>
+
+1698373982 source:c:\users\steven\downloads\t3 (2)\t3\glm.cpp
+	"stdafx.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1206984662 c:\users\steven\downloads\t3 (2)\t3\stdafx.h
+	<stdio.h>
+	<tchar.h>
+
+1354375116 c:\users\steven\downloads\t3 (2)\t3\glm.h
+	<GL/glut.h>
+
+1700118005 source:c:\users\steven\downloads\t3 (2)\t3\main.cpp
+	<stdlib.h>
+	<windows.h>
+	<GL/glut.h>
+	"stdafx.h"
+	"glm.h"
+	"Texture.h"
+	<iostream>
+	<math.h>
+	<fstream>
+
+1353151932 c:\users\steven\downloads\t3 (2)\t3\texture.h
+	<windows.h>
+	<windowsx.h>
+	<stdlib.h>
+	<stdio.h>
+	"GL/glut.h"
+	<math.h>
+
+1206984662 source:c:\users\steven\downloads\t3 (2)\t3\stdafx.cpp
+	"stdafx.h"
+
+1208830204 source:c:\users\steven\downloads\t3 (2)\t3\texture.cpp
+	"stdafx.h"
+	"Texture.h"
+
